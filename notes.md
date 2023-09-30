@@ -69,7 +69,8 @@
 
 ### html内容
 
-> 浏览器不会解析多余的空格，制表符和换行符### Base标签
+> 浏览器不会解析多余的空格，制表符和换行符
+> ### Base标签
 
 > 统一修改页面内部超链接的跳转标签方式![image-20230710213814702](C:\Users\Xie\AppData\Roaming\Typora\typora-user-images\image-20230710213814702.png)
 >
